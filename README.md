@@ -3,7 +3,10 @@ Practical Deep Learning For Coders, Part 1 [fast-ai site](https://github.com/lsy
 
 ## HW Description
 1. HW01: Image classification with CNN (Glass vs Plastic)
+    - Data was downloaded through google image search. To enable chrome download plugins to download image easier, don't forget to do "Advance Search" and set the "usage rights" to "free to use or share".
+1. HW02: Image multi-label classification [kaggle plant-seedlings-classification](https://www.kaggle.com/c/plant-seedlings-classification)
 
 ## Setting Up Work Environment
-[link](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
+1. Google instance with GPU [link](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
+1. Download kaggle data using Kaggle CLI [link](https://github.com/Kaggle/kaggle-api)
 
