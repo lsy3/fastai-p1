@@ -1,5 +1,5 @@
 # fastai-p1
-Practical Deep Learning For Coders, Part 1 [fast-ai site](https://github.com/lsy3/fastai-p1)
+Practical Deep Learning For Coders, Part 1 [fast-ai site](http://course.fast.ai/)
 
 ## HW Description
 1. HW01: Image classification with CNN (Glass vs Plastic)
