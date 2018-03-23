@@ -11,6 +11,10 @@ Practical Deep Learning For Coders, Part 1 [fast-ai site](http://course.fast.ai/
 1. HW03: Melbourne Housing Price Prediction [data source](https://www.kaggle.com/anthonypino/melbourne-housing-market/data)
     - Data was downloaded using Kaggle CLI and added to './data/melbourne-housing'
     - Best R2 result: ~80%
+1. HW04a: Pytorch Tutorial [link](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+1. HW04b: Basic Sentiment Analysis using Pytorch Text
+    - Data was downloaded from [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip) and added to './data/sentiment'
+    - Best Result for IMDB: 0.9889
 
 ## Setting Up Work Environment
 1. Google instance with GPU [link](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
