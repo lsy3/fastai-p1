@@ -15,6 +15,15 @@ Practical Deep Learning For Coders, Part 1 [fast-ai site](http://course.fast.ai/
 1. HW04b: Basic Sentiment Analysis using Pytorch Text
     - Data was downloaded from [link](https://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip) and added to './data/sentiment'
     - Best Result for IMDB: 0.9889
+1. HW05: (Stochastic) Gradient Descent and ADAM Optimizer implementation
+    - SGD was based from fastai notebook
+    - ADAM was based from [arxiv paper](https://arxiv.org/abs/1412.6980)
+1. HW06a: Char level RNN based from [link](http://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html)
+    - Tried producing text learned from the Psalms (Bible, KJV).
+    - The result was not that well. The output keeps on cycling through the same words.
+1. HW06b: Char level LSTM based from the fast-ai RNN notebook (lesson 6)
+    - Tried producing text learned from the Psalms (Bible, KJV).
+    - The results were a lot better, but there is still areas for improvement.
 
 ## Setting Up Work Environment
 1. Google instance with GPU [link](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
