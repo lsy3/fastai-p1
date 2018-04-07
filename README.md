@@ -24,6 +24,10 @@ Practical Deep Learning For Coders, Part 1 [fast-ai site](http://course.fast.ai/
 1. HW06b: Char level LSTM based from the fast-ai RNN notebook (lesson 6)
     - Tried producing text learned from the Psalms (Bible, KJV).
     - The results were a lot better, but there is still areas for improvement.
+1. HW06c: Char level LSTM based from the fast-ai RNN notebook (lesson 6)
+    - Tried producing text learned from the Psalms (Bible, KJV).
+    - The difference with HW06b is that I used a shorter bptt (bptt = 10 instead of 100)
+    - The results is surprisingly good compared to bptt = 100.
 
 ## Setting Up Work Environment
 1. Google instance with GPU [link](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43)
